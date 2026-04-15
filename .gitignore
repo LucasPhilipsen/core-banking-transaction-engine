@@ -1,0 +1,11 @@
+# Ignorar pastas de compilação
+out/
+bin/
+
+# Ignorar arquivos do IntelliJ
+.idea/
+*.iml
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
